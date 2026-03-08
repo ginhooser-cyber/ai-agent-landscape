@@ -1,0 +1,52 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" rx="32" fill="#070B16"/>
+  <rect x="30" y="30" width="1540" height="840" rx="28" fill="url(#bg)" stroke="#1F2937"/>
+
+  <text x="90" y="150" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">AI Agent Landscape</text>
+  <text x="90" y="205" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="24">A curated, opinionated map of coding agents, browser agents, research agents, workflows, and frameworks.</text>
+
+  <rect x="90" y="260" width="220" height="52" rx="16" fill="#111827" stroke="#374151"/>
+  <text x="118" y="293" fill="#A78BFA" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Open source + closed</text>
+
+  <rect x="328" y="260" width="190" height="52" rx="16" fill="#111827" stroke="#374151"/>
+  <text x="356" y="293" fill="#22D3EE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Use-case first</text>
+
+  <rect x="536" y="260" width="196" height="52" rx="16" fill="#111827" stroke="#374151"/>
+  <text x="564" y="293" fill="#F472B6" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Curated, not bloated</text>
+
+  <rect x="90" y="370" width="430" height="360" rx="28" fill="#0F172A" stroke="#243041"/>
+  <text x="122" y="425" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Top categories</text>
+  <text x="122" y="475" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">• Coding agents</text>
+  <text x="122" y="520" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">• Browser agents</text>
+  <text x="122" y="565" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">• Research agents</text>
+  <text x="122" y="610" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">• Workflow agents</text>
+  <text x="122" y="655" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">• Personal assistants</text>
+  <text x="122" y="700" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">• Agent frameworks</text>
+
+  <rect x="560" y="370" width="470" height="360" rx="28" fill="#0F172A" stroke="#243041"/>
+  <text x="592" y="425" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">What this repo answers fast</text>
+  <text x="592" y="485" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="21">Which agent is actually best for my job?</text>
+  <text x="592" y="530" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="21">What is open source vs closed?</text>
+  <text x="592" y="575" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="21">What is local, cloud, or hybrid?</text>
+  <text x="592" y="620" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="21">Which tools are polished vs promising?</text>
+  <text x="592" y="665" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="21">Which framework fits my workflow?</text>
+
+  <rect x="1070" y="370" width="410" height="360" rx="28" fill="#0F172A" stroke="#243041"/>
+  <text x="1102" y="425" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Featured tools</text>
+  <text x="1102" y="485" fill="#A78BFA" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">Claude Code</text>
+  <text x="1102" y="515" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="19">Strong repo-scale coding and refactors</text>
+  <text x="1102" y="565" fill="#22D3EE" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">OpenHands</text>
+  <text x="1102" y="595" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="19">Popular open source autonomous coding agent</text>
+  <text x="1102" y="645" fill="#F472B6" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">Browser Use</text>
+  <text x="1102" y="675" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="19">Open source browser automation with strong mindshare</text>
+
+  <text x="90" y="805" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="20">github.com/ginhooser-cyber/ai-agent-landscape</text>
+
+  <defs>
+    <linearGradient id="bg" x1="80" y1="70" x2="1520" y2="840" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.6" stop-color="#111827"/>
+      <stop offset="1" stop-color="#131A32"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -16,12 +16,12 @@ A curated, opinionated map of the AI agent ecosystem.
 - [x] CONTRIBUTING
 - [x] issue templates
 - [x] starter dataset
-- [ ] add 30-50 stronger entries
-- [ ] improve comparison criteria
-- [ ] add logo / visual mark
-- [ ] add topics for discoverability
-- [ ] do final copy polish
-- [ ] publish public GitHub repo
+- [x] add 30-50 stronger entries
+- [x] improve comparison criteria
+- [x] add logo / visual mark
+- [x] add topics for discoverability
+- [x] do final copy polish
+- [x] publish public GitHub repo
 
 ## Suggested GitHub topics
 ai

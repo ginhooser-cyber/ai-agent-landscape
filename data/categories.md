@@ -1,19 +1,65 @@
 # Categories
 
 ## Coding Agents
-Agents and tools focused on writing, editing, reviewing, debugging, or restructuring code.
+Tools that directly help write, edit, review, refactor, debug, or ship code.
+
+Examples:
+- Claude Code
+- Codex CLI
+- Cursor
+- GitHub Copilot
+- Aider
+- OpenHands
+- Cline
+- Continue
+- Goose
+- Gemini CLI
+- Devin
 
 ## Browser Agents
-Agents that browse, click, extract, and act on web pages.
+Tools focused on acting on web pages and browser-based software.
+
+Examples:
+- Browser Use
+- Skyvern
+- Stagehand
 
 ## Research Agents
-Agents optimized for search, synthesis, citation, and investigation.
+Tools optimized for searching, synthesizing, citing, and packaging information.
+
+Examples:
+- Perplexity
+- OpenAI Deep Research
+- Gemini Deep Research
+- Genspark
+- You.com research flows
 
 ## Workflow Agents
-Agents that connect systems, tools, documents, and automations.
+Tools that combine agents with automations, app integrations, and repeatable business flows.
+
+Examples:
+- CrewAI
+- n8n
+- Flowise
+- Dify
 
 ## Personal Assistants
-Agents that manage daily operations across chat, tasks, files, notes, and devices.
+Agents designed to help with day-to-day operating tasks across chat, files, notes, tools, and devices.
+
+Examples:
+- OpenClaw
+- Open Interpreter
+- Khoj
+- Letta
 
 ## Agent Frameworks
-Libraries and runtimes for building your own agents.
+Libraries, SDKs, and runtimes used to build custom agents.
+
+Examples:
+- LangGraph
+- AutoGen
+- Semantic Kernel
+- PydanticAI
+- Mastra
+- smolagents
+- LlamaIndex
