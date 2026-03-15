@@ -50,7 +50,7 @@ Not a dressed-up SEO farm.
 
 The goal is simple: **help people find the right agent faster**.
 
-The repo is already tracking **80+ tools** across coding, browser automation, research, workflows, assistants, and frameworks.
+The repo is already tracking **100+ tools** across coding, browser automation, research, workflows, app building, agent memory, protocols, assistants, and frameworks.
 
 ## ⚡ Start Here
 
@@ -74,6 +74,12 @@ Start with **CrewAI**, **n8n**, **Flowise**, or **Dify**.
 ### You want a personal or operator-style assistant
 Start with **OpenClaw**, **Open Interpreter**, **Khoj**, or **Letta**.
 
+### You want to build apps with AI (not code them)
+Start with **Bolt.new**, **v0.dev**, **Lovable**, or **Replit Agent**.
+
+### You want your agents to have memory
+Start with **Mem0**, **Zep**, or **Letta**.
+
 ## 🔥 Featured Picks
 
 These are not "the winners." They are the tools that currently stand out for clear reasons.
@@ -90,6 +96,10 @@ These are not "the winners." They are the tools that currently stand out for cle
 | **PydanticAI** | Clean developer ergonomics and a strong "Python builders" appeal. |
 | **CrewAI** | Popular for multi-agent and workflow-style orchestration, especially with builders shipping demos and internal tools. |
 | **OpenClaw** | Interesting because it blends assistant behavior, messaging, browser control, tools, and device operations in one runtime. |
+| **Gemini CLI** | Massive context window + web grounding makes it uniquely capable for large codebases. |
+| **OpenCode** | 95K stars, 75+ providers — the most flexible OSS terminal coding agent. |
+| **Bolt.new** | Made prompt-to-app real for a huge audience. |
+| **Mem0** | Solving the memory problem that makes agents actually useful over time. |
 
 ## 📊 Comparison Snapshot
 
@@ -113,6 +123,14 @@ These are not "the winners." They are the tools that currently stand out for cle
 | CrewAI | Workflow Agent / Framework | Yes | local/cloud | team-style workflows | big builder mindshare |
 | n8n | Workflow Agent | Yes | local/cloud | automations with AI steps | huge practical workflow appeal |
 | OpenClaw | Personal Assistant / Agent Runtime | Yes | local/self-hosted | cross-channel assistants | unusually broad orchestration surface |
+| Gemini CLI | Coding Agent | Yes | local/cloud | large-codebase coding | 1M+ token context window with web grounding |
+| OpenCode | Coding Agent | Yes | local/cloud | provider-agnostic coding | most flexible OSS terminal coding agent |
+| GitHub Copilot CLI | Coding Agent | No | cloud | GitHub-native coding | full agentic CLI with GitHub integration |
+| Amp | Coding Agent | No | cloud | autonomous team coding | CLI-only with shared collaboration threads |
+| Bolt.new | App Builder Agent | No | cloud | full-stack app generation | made prompt-to-app real for a huge audience |
+| v0.dev | App Builder Agent | No | cloud | UI component generation | production-ready React + Tailwind components |
+| Mem0 | Agent Memory Layer | Yes | local/cloud | agent memory | solving the memory problem for persistent agents |
+| Warp | Coding Agent / Terminal | No | local/cloud | AI-native terminal | Rust-powered ADE with MCP integration |
 
 ## 🗂 Categories
 
@@ -145,6 +163,21 @@ Agents that help across messages, tasks, files, notes, browser actions, and devi
 Building blocks for developers who want to create custom agents and orchestrations.
 
 **Examples:** LangGraph, AutoGen, Semantic Kernel, PydanticAI, Mastra, smolagents, LlamaIndex.
+
+### App Builder Agents
+Tools that generate full applications or production-ready UI components from natural language prompts.
+
+**Examples:** Bolt.new, v0.dev, Lovable, Replit Agent.
+
+### Agent Memory & Context
+Tools and layers that provide persistent memory, long-term context, and knowledge management for AI agents.
+
+**Examples:** Mem0, Zep, Letta.
+
+### Agent Protocols & Standards
+Open standards and protocols that enable agent-to-tool and agent-to-agent communication.
+
+**Examples:** Model Context Protocol (MCP), Google A2A.
 
 ## 📚 Use-case guides
 
@@ -208,12 +241,15 @@ Read the full approach in [docs/methodology.md](./docs/methodology.md).
 - [x] Ship a credible public repo structure
 - [x] Add visual identity assets
 - [x] Publish an initial comparison snapshot
-- [x] Expand the dataset to 75+ strong entries
+- [x] Expand the dataset to 75+ strong entries → now 100+
 - [ ] Add sharper pricing / hosting / licensing metadata
 - [x] Add category-specific shortlists and buying guides
 - [ ] Add generated website / docs experience
 - [ ] Add changelog and update cadence
 - [x] Add "best by use case" pages
+- [ ] Add Agent Protocols section
+- [ ] Track MCP adoption across tools
+- [ ] Monthly update cadence
 
 ## 🔐 Trust and safety
 

@@ -11,17 +11,23 @@ It is a shortlist of good starting points depending on what you are actually try
 - **Claude Code**
 - **Cursor**
 - **Codex CLI**
+- **Gemini CLI**
 
 ### If you want open-source coding tools
 - **Aider**
 - **OpenHands**
 - **Cline**
 - **Continue**
+- **OpenCode**
+- **Crush CLI**
+- **ForgeCode**
+- **Plandex**
 
 ### If you care about git or PR-friendly workflows
 - **Aider**
 - **Sweep**
 - **CodeRabbit**
+- **Amp**
 
 ## Best starting points for browser automation
 
@@ -92,6 +98,23 @@ It is a shortlist of good starting points depending on what you are actually try
 ### If you care about memory-centric assistants
 - **Letta**
 - **Mem0**
+
+## Best starting points for building apps with AI
+
+### If you want full-stack app generation
+- **Bolt.new**
+- **Lovable**
+- **Replit Agent**
+
+### If you want UI components
+- **v0.dev**
+
+## Best starting points for agent memory
+
+### If you want persistent memory for your agents
+- **Mem0**
+- **Zep**
+- **Letta**
 
 ## How to read this page
 

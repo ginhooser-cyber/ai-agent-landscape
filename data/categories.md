@@ -63,3 +63,27 @@ Examples:
 - Mastra
 - smolagents
 - LlamaIndex
+
+## App Builder Agents
+Tools that generate full applications or production-ready UI components from natural language prompts.
+
+Examples:
+- Bolt.new
+- v0.dev
+- Lovable
+- Replit Agent
+
+## Agent Memory & Context
+Tools and layers that provide persistent memory, long-term context, and knowledge management for AI agents.
+
+Examples:
+- Mem0
+- Zep
+- Letta
+
+## Agent Protocols & Standards
+Open standards and protocols that enable agent-to-tool and agent-to-agent communication.
+
+Examples:
+- Model Context Protocol (MCP)
+- Google A2A

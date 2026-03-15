@@ -1,91 +1,106 @@
 name,url,category,open_source,best_for,pricing,hosting,notes
-Claude Code,https://www.anthropic.com/claude-code,Coding Agent,no,repo-scale coding and refactors,paid,cloud,Strong for architectural changes and long edit loops
-Codex CLI,https://openai.com/index/introducing-codex/,Coding Agent,no,direct code generation and edits,paid,cloud,Useful for terminal-first coding workflows
-Cursor,https://www.cursor.com,Coding Agent,no,IDE-native coding workflows,paid,cloud,One of the most mainstream agentic coding experiences
-GitHub Copilot,https://github.com/features/copilot,Coding Agent,no,editor-native coding assistance,paid,cloud,Massive distribution and broad developer familiarity
-Aider,https://github.com/Aider-AI/aider,Coding Agent,yes,git-friendly terminal coding,open-source,local/cloud,Practical OSS coding assistant with strong CLI ergonomics
-OpenHands,https://github.com/All-Hands-AI/OpenHands,Coding Agent,yes,autonomous coding tasks,open-source,local/cloud,Major open-source coding-agent project with strong mindshare
-Cline,https://github.com/cline/cline,Coding Agent,yes,tool-using VS Code agent loops,open-source,local/cloud,Popular among users who like explicit tool execution
-Continue,https://github.com/continuedev/continue,Coding Agent,yes,customizable in-editor AI coding,open-source,local/cloud,Flexible open-source coding assistant platform
-Goose,https://github.com/block/goose,General Agent,yes,extensible local agent workflows,open-source,local,Developer-focused OSS project with broad agent ambitions
-Sweep,https://github.com/sweepai/sweep,Coding Agent,yes,PR-style coding automation,open-source/paid,cloud,Interesting for GitHub-native code change workflows
-Devin,https://devin.ai,Coding Agent,no,fully managed coding agent workflows,paid,cloud,High-visibility product with a strong autonomous-agent narrative
-Windsurf,https://windsurf.com,Coding Agent,no,agentic coding in an editor,paid,cloud,Strong branding and app-builder appeal
-Sourcegraph Cody,https://sourcegraph.com/cody,Coding Agent,no,codebase search plus coding assistance,paid,cloud,Especially relevant in large-repo search-heavy workflows
-Tabnine,https://www.tabnine.com/,Coding Agent,no,private-code-friendly assistance,paid,cloud/local,Long-running coding assistant product with enterprise positioning
-Amazon Q Developer,https://aws.amazon.com/q/developer/,Coding Agent,no,AWS-heavy development workflows,paid,cloud,Most relevant for builders living in the AWS ecosystem
-Replit Agent,https://replit.com/ai,Coding Agent,no,app prototyping in hosted environments,paid,cloud,Useful for quick full-stack app iterations
-Roo Code,https://github.com/RooVetGit/Roo-Code,Coding Agent,yes,agentic coding inside VS Code,open-source,local/cloud,Common OSS alternative in the VS Code agent niche
-Qodo Gen,https://www.qodo.ai/products/qodo-gen/,Coding Agent,no,test-aware coding help,paid,cloud,Best known around code quality and review positioning
-CodeRabbit,https://www.coderabbit.ai/,Coding Agent,no,AI code review,paid,cloud,More review-focused than general code generation
-Augment Code,https://www.augmentcode.com/,Coding Agent,no,large-codebase developer assistance,paid,cloud,Positioned around codebase understanding and team productivity
-Browser Use,https://github.com/browser-use/browser-use,Browser Agent,yes,browser automation,open-source,local/cloud,One of the clearest OSS browser-agent projects
-Skyvern,https://github.com/Skyvern-AI/skyvern,Browser Agent,yes,web task automation,open-source/paid,cloud/hybrid,More operations-oriented browser automation
-Stagehand,https://github.com/browserbase/stagehand,Browser Agent Tooling,yes,browser action building,open-source,local/cloud,Closer to agent tooling than a turnkey assistant product
-Playwright,https://playwright.dev/,Browser Automation Tooling,yes,reliable browser automation,open-source,local/cloud,Not an agent by itself but core infrastructure for many browser-agent stacks
-Browserbase,https://www.browserbase.com/,Browser Agent Infrastructure,no,hosted browser sessions for agentic use,paid,cloud,Infra layer rather than end-user agent product
-AgentQL,https://www.agentql.com/,Browser Agent Tooling,no,structured querying of web pages,paid,cloud,Useful for making browser automation less brittle
-OpenAI Operator,https://openai.com/,Browser Agent,no,consumer-facing web task delegation,paid,cloud,Important reference point in mainstream browser-agent discussions
-Steel.dev,https://steel.dev/,Browser Agent Infrastructure,no,browser infrastructure for AI workflows,paid,cloud,Closer to infrastructure than assistant product
-Firecrawl,https://www.firecrawl.dev/,Browser and Web Data Tooling,yes,web extraction for agent systems,open-source/paid,cloud/local,Often used as web retrieval plumbing in agent stacks
-Hyperbrowser,https://www.hyperbrowser.ai/,Browser Agent Infrastructure,no,browser environments for agentic systems,paid,cloud,Infra-oriented entry for web automation builders
-Perplexity,https://www.perplexity.ai,Research Agent,no,fast search and synthesis,paid/freemium,cloud,Still one of the easiest research products to recommend
-OpenAI Deep Research,https://openai.com,Research Agent,no,long-form researched outputs,paid,cloud,High-profile research workflow with premium positioning
-Gemini Deep Research,https://gemini.google.com,Research Agent,no,web-grounded synthesis,paid/freemium,cloud,Compelling when Google grounding matters
-Genspark,https://www.genspark.ai,Research Agent,no,multi-step research and synthesis,paid/freemium,cloud,Strong consumer-facing research positioning
-You.com,https://you.com,Research Agent,no,AI search and research flows,paid/freemium,cloud,Search-first product with agentic research features
-Elicit,https://elicit.com,Research Agent,no,research workflows and literature support,paid/freemium,cloud,Best known in evidence-heavy research circles
-Consensus,https://consensus.app,Research Agent,no,academic question answering,paid/freemium,cloud,Narrower than general AI search but useful for literature lookups
-Exa,https://exa.ai/,Research Tooling,no,search infrastructure for AI builders,paid,cloud,Often used underneath research and retrieval workflows
-NotebookLM,https://notebooklm.google/,Research Assistant,no,source-grounded synthesis around documents,free/freemium,cloud,Very useful for document-centered research and study flows
-Scite,https://scite.ai/,Research Assistant,no,citation-aware literature exploration,paid/freemium,cloud,Useful when citation quality matters more than general search breadth
-Phind,https://www.phind.com/,Research Agent,no,technical search and coding-adjacent research,paid/freemium,cloud,More developer-facing than many general AI search tools
-CrewAI,https://github.com/crewAIInc/crewAI,Workflow Agent / Framework,yes,multi-agent workflow systems,open-source/paid,local/cloud,Huge builder mindshare in agent automation circles
-n8n,https://github.com/n8n-io/n8n,Workflow Agent,yes,app automation with AI steps,open-source/paid,local/cloud,Massive practical appeal for operators and builders
-Flowise,https://github.com/FlowiseAI/Flowise,Workflow Agent,yes,visual LLM and agent flows,open-source/paid,local/cloud,Friendly for low-code agent experiments
-Dify,https://github.com/langgenius/dify,Workflow Agent,yes,LLM app and workflow building,open-source/paid,local/cloud,Popular OSS platform for shipping AI apps
-Activepieces,https://github.com/activepieces/activepieces,Workflow Agent,yes,automation with AI integrations,open-source/paid,local/cloud,More automation platform than pure agent system
-Zapier Agents,https://zapier.com/ai,Workflow Agent,no,business automation with AI actions,paid,cloud,Important for mainstream no-code automation buyers
-Gumloop,https://www.gumloop.com/,Workflow Agent,no,visual AI workflow building,paid,cloud,Strong appeal for business users who want fast automations
-Lindy,https://www.lindy.ai/,Workflow Agent,no,assistant-style business automations,paid,cloud,Positions itself around delegated work and org tasks
-Relay.app,https://www.relay.app/,Workflow Agent,no,human-in-the-loop automation,paid,cloud,Useful reference for approval-driven workflows
-Retool AI,https://retool.com/ai,Workflow Agent,no,internal-tool workflows with AI,paid,cloud,Relevant for operators building internal systems quickly
-Bardeen,https://www.bardeen.ai/,Workflow Agent,no,browser and SaaS automation,paid/freemium,cloud,Automation-heavy with AI assistance layered in
-Pipedream,https://pipedream.com/,Workflow Agent,no,developer automation and event-driven flows,paid/freemium,cloud,Developer-friendly automation layer that can support agent patterns
-LangGraph,https://github.com/langchain-ai/langgraph,Agent Framework,yes,stateful agent orchestration,open-source/paid,local/cloud,Strong for controlled graph-based flows
-AutoGen,https://github.com/microsoft/autogen,Agent Framework,yes,multi-agent orchestration,open-source,local/cloud,Historically influential in the modern agent wave
-Semantic Kernel,https://github.com/microsoft/semantic-kernel,Agent Framework,yes,enterprise AI orchestration,open-source,local/cloud,Strong enterprise and .NET adjacency
-PydanticAI,https://github.com/pydantic/pydantic-ai,Agent Framework,yes,Pythonic agent development,open-source,local/cloud,Clean ergonomics for developers who like typed systems
-smolagents,https://github.com/huggingface/smolagents,Agent Framework,yes,lightweight code agents,open-source,local/cloud,Appealing minimalism and good educational value
-Mastra,https://github.com/mastra-ai/mastra,Agent Framework,yes,TypeScript agent apps,open-source,local/cloud,Strong fit for modern TS builders
-LlamaIndex,https://github.com/run-llama/llama_index,Agent Framework,yes,RAG and data-aware agent systems,open-source/paid,local/cloud,More than agents but still central in many stacks
-Haystack,https://github.com/deepset-ai/haystack,Agent Framework,yes,search and RAG pipelines with agent features,open-source/paid,local/cloud,Long-running OSS stack with strong retrieval roots
 Agno,https://github.com/agno-agi/agno,Agent Framework,yes,full-stack agent building in Python,open-source,local/cloud,Part of the newer wave of developer-facing agent frameworks
-OpenAI Agents SDK,https://github.com/openai/openai-agents-python,Agent Framework,yes,building agents on OpenAI primitives,open-source,local/cloud,Important reference for provider-native agent tooling
-Vercel AI SDK,https://github.com/vercel/ai,Agent Framework,yes,AI app and agent development in JS,open-source,local/cloud,Foundational SDK for many TypeScript AI apps
+Atomic Agents,https://github.com/BrainBlend-AI/atomic-agents,Agent Framework,yes,modular agent composition,open-source,local/cloud,Useful if you prefer smaller composable pieces
+AutoGen,https://github.com/microsoft/autogen,Agent Framework,yes,multi-agent orchestration,open-source,local/cloud,Historically influential in the modern agent wave
 BeeAI Framework,https://github.com/i-am-bee/beeai-framework,Agent Framework,yes,multi-agent developer workflows,open-source,local/cloud,Interesting OSS framework with enterprise-builder flavor
 CAMEL-AI,https://github.com/camel-ai/camel,Agent Framework,yes,multi-agent research and simulation,open-source,local/cloud,Often referenced in agent research circles
-Atomic Agents,https://github.com/BrainBlend-AI/atomic-agents,Agent Framework,yes,modular agent composition,open-source,local/cloud,Useful if you prefer smaller composable pieces
 ControlFlow,https://github.com/PrefectHQ/ControlFlow,Agent Framework,yes,structured agent workflows,open-source,local/cloud,Interesting for builders who want orchestration discipline
-Langroid,https://github.com/langroid/langroid,Agent Framework,yes,multi-agent LLM applications,open-source,local/cloud,Developer-focused and more code-centric than no-code tools
-Griptape,https://github.com/griptape-ai/griptape,Agent Framework,yes,tool-aware AI structures,open-source,local/cloud,Framework flavor aimed at structured AI systems
 Genkit,https://firebase.google.com/docs/genkit,Agent Framework,yes,AI app and agent development with Firebase,open-source,local/cloud,Relevant for builders already in the Firebase ecosystem
-Letta,https://github.com/letta-ai/letta,Personal Assistant / Framework,yes,memory-centric assistants,open-source,local/cloud,Important reference point for persistent-agent conversations
-OpenClaw,https://github.com/openclaw/openclaw,Personal Assistant / Agent Runtime,yes,cross-channel assistants and tool orchestration,open-source,local/self-hosted,Unusually broad surface across messaging browser and devices
-Open Interpreter,https://github.com/OpenInterpreter/open-interpreter,Personal Assistant / General Agent,yes,computer-use style local assistance,open-source,local,Helped popularize local computer-use assistant workflows
-Khoj,https://github.com/khoj-ai/khoj,Personal Assistant,yes,personal knowledge and assistant workflows,open-source,local/cloud,Useful for search-plus-assistant personal setups
-AutoGPT,https://github.com/Significant-Gravitas/AutoGPT,General Agent,yes,autonomous-agent experimentation,open-source,local/cloud,Historically important even if the hype cycle outran real utility
+Griptape,https://github.com/griptape-ai/griptape,Agent Framework,yes,tool-aware AI structures,open-source,local/cloud,Framework flavor aimed at structured AI systems
+Haystack,https://github.com/deepset-ai/haystack,Agent Framework,yes,search and RAG pipelines with agent features,open-source/paid,local/cloud,Long-running OSS stack with strong retrieval roots
+LangGraph,https://github.com/langchain-ai/langgraph,Agent Framework,yes,stateful agent orchestration,open-source/paid,local/cloud,Strong for controlled graph-based flows
+Langroid,https://github.com/langroid/langroid,Agent Framework,yes,multi-agent LLM applications,open-source,local/cloud,Developer-focused and more code-centric than no-code tools
+LlamaIndex,https://github.com/run-llama/llama_index,Agent Framework,yes,RAG and data-aware agent systems,open-source/paid,local/cloud,More than agents but still central in many stacks
+Mastra,https://github.com/mastra-ai/mastra,Agent Framework,yes,TypeScript agent apps,open-source,local/cloud,Strong fit for modern TS builders
+OpenAI Agents SDK,https://github.com/openai/openai-agents-python,Agent Framework,yes,building agents on OpenAI primitives,open-source,local/cloud,Important reference for provider-native agent tooling
+PydanticAI,https://github.com/pydantic/pydantic-ai,Agent Framework,yes,Pythonic agent development,open-source,local/cloud,Clean ergonomics for developers who like typed systems
+Semantic Kernel,https://github.com/microsoft/semantic-kernel,Agent Framework,yes,enterprise AI orchestration,open-source,local/cloud,Strong enterprise and .NET adjacency
+smolagents,https://github.com/huggingface/smolagents,Agent Framework,yes,lightweight code agents,open-source,local/cloud,Appealing minimalism and good educational value
+Vercel AI SDK,https://github.com/vercel/ai,Agent Framework,yes,AI app and agent development in JS,open-source,local/cloud,Foundational SDK for many TypeScript AI apps
+Letta,https://github.com/letta-ai/letta,Agent Memory Layer / Framework,yes,memory-centric stateful agents,open-source,local/cloud,Memory-centric framework with persistent conversation and agent memory capabilities
+Mem0,https://github.com/mem0ai/mem0,Agent Memory Layer,yes,persistent long-term memory for AI agents,open-source/paid,local/cloud,Self-improving memory with user/session/agent scopes and vector search
+Zep,https://github.com/getzep/zep,Agent Memory Layer,yes,session memory and knowledge extraction,open-source/paid,local/cloud,Long-term memory for chatbots and agents with temporal awareness
+Google A2A,https://google.github.io/A2A,Agent Protocol / Standard,yes,agent-to-agent communication,open-source,local/cloud,Google's answer to MCP — focuses on inter-agent communication
+Model Context Protocol,https://modelcontextprotocol.io,Agent Protocol / Standard,yes,standardized agent-tool communication,open-source,local/cloud,Open standard by Anthropic — the USB-C of AI agent tooling
+Rivet,https://rivet.ironcladapp.com,Agent Workflow Tooling,no,visual prompt and agent logic design,paid/freemium,cloud,Closer to agent workflow design tooling than turnkey assistant product
+Bolt.new,https://bolt.new,App Builder Agent,no,full-stack app generation from prompts,paid/freemium,cloud,Browser-based full-stack app generation from natural language
+Lovable,https://lovable.dev,App Builder Agent,no,AI app building with deployment,paid/freemium,cloud,Full-stack generation with hosting included
+Replit Agent,https://replit.com/ai,App Builder Agent,no,rapid full-stack prototyping,paid,cloud,Browser IDE with agent that builds and deploys complete apps
+v0.dev,https://v0.dev,App Builder Agent,no,production-ready UI component generation,paid/freemium,cloud,Vercel-built specializing in React + Tailwind + ShadCN UI
+Browser Use,https://github.com/browser-use/browser-use,Browser Agent,yes,browser automation,open-source,local/cloud,One of the clearest OSS browser-agent projects
+OpenAI Operator,https://openai.com,Browser Agent,no,consumer-facing web task delegation,paid,cloud,Important reference point in mainstream browser-agent discussions
+Skyvern,https://github.com/Skyvern-AI/skyvern,Browser Agent,yes,web task automation,open-source/paid,cloud/hybrid,More operations-oriented browser automation
+Browserbase,https://www.browserbase.com,Browser Agent Infrastructure,no,hosted browser sessions for agentic use,paid,cloud,Infra layer rather than end-user agent product
+Hyperbrowser,https://www.hyperbrowser.ai,Browser Agent Infrastructure,no,browser environments for agentic systems,paid,cloud,Infra-oriented entry for web automation builders
+Steel.dev,https://steel.dev,Browser Agent Infrastructure,no,browser infrastructure for AI workflows,paid,cloud,Closer to infrastructure than assistant product
+AgentQL,https://www.agentql.com,Browser Agent Tooling,no,structured querying of web pages,paid,cloud,Useful for making browser automation less brittle
+Stagehand,https://github.com/browserbase/stagehand,Browser Agent Tooling,yes,browser action building,open-source,local/cloud,Closer to agent tooling than a turnkey assistant product
+Playwright,https://playwright.dev,Browser Automation Tooling,yes,reliable browser automation,open-source,local/cloud,Not an agent by itself but core infrastructure for many browser-agent stacks
+Firecrawl,https://www.firecrawl.dev,Browser and Web Data Tooling,yes,web extraction for agent systems,open-source/paid,cloud/local,Often used as web retrieval plumbing in agent stacks
+Aider,https://github.com/Aider-AI/aider,Coding Agent,yes,git-friendly terminal coding,open-source,local/cloud,Practical OSS coding assistant with strong CLI ergonomics
+Amazon Q Developer,https://aws.amazon.com/q/developer,Coding Agent,no,AWS-heavy development workflows,paid,cloud,Most relevant for builders living in the AWS ecosystem
+Amp,https://sourcegraph.com/amp,Coding Agent,no,autonomous coding with team collaboration,paid/free-tier,cloud,Spun out of Sourcegraph with CLI-only mode and shared collaboration threads
+Augment Code,https://www.augmentcode.com,Coding Agent,no,large-codebase developer assistance,paid,cloud,Positioned around codebase understanding and team productivity
+Claude Code,https://www.anthropic.com/claude-code,Coding Agent,yes,repo-scale coding and refactors,paid,cloud,Now open-source — strong for architectural changes and long edit loops
+Cline,https://github.com/cline/cline,Coding Agent,yes,tool-using VS Code agent loops,open-source,local/cloud,One of the most popular OSS coding agents with massive GitHub stars
+Codex CLI,https://openai.com/index/introducing-codex,Coding Agent,no,direct code generation and edits,paid,cloud,Useful for terminal-first coding workflows
+CodeRabbit,https://www.coderabbit.ai,Coding Agent,no,AI code review,paid,cloud,More review-focused than general code generation
+Continue,https://github.com/continuedev/continue,Coding Agent,yes,customizable in-editor AI coding,open-source,local/cloud,Flexible open-source coding assistant platform
+Crush CLI,https://github.com/crush-cli/crush,Coding Agent,yes,multi-model terminal coding with LSP,open-source,local/cloud,Beautiful TUI with mid-session model switching and Go-based architecture
+Cursor,https://www.cursor.com,Coding Agent,no,IDE-native coding workflows,paid,cloud,One of the most mainstream agentic coding experiences
+Devin,https://devin.ai,Coding Agent,no,fully managed coding agent workflows,paid,cloud,Still polarizing but now has real shipping users and production deployments
+ForgeCode,https://github.com/forgecode-ai/forgecode,Coding Agent,yes,zero-config terminal pair programming,open-source,local/cloud,Supports self-hosted models with review-before-apply workflow
+Gemini CLI,https://github.com/google-gemini/gemini-cli,Coding Agent,yes,large-codebase coding with web grounding,free/paid,local/cloud,1M+ token context window and native web search set it apart
+GitHub Copilot,https://github.com/features/copilot,Coding Agent,no,editor-native coding assistance,paid,cloud,Massive distribution and broad developer familiarity
+GitHub Copilot CLI,https://github.com/features/copilot,Coding Agent,no,GitHub-native agentic terminal coding,paid,cloud,Full agentic CLI with native GitHub issues/PR integration
+OpenCode,https://github.com/opencode-ai/opencode,Coding Agent,yes,provider-agnostic terminal coding,open-source,local/cloud,95K+ GitHub stars with support for 75+ LLM providers and LSP integration
+OpenHands,https://github.com/All-Hands-AI/OpenHands,Coding Agent,yes,autonomous coding tasks,open-source,local/cloud,Major open-source coding-agent project with strong mindshare
+Plandex,https://github.com/plandex-ai/plandex,Coding Agent,yes,complex large-scale project planning and coding,open-source,local/cloud,Terminal-based agent that indexes large codebases and generates project maps
+Qodo Gen,https://www.qodo.ai/products/qodo-gen,Coding Agent,no,test-aware coding help,paid,cloud,Best known around code quality and review positioning
+Roo Code,https://github.com/RooVetGit/Roo-Code,Coding Agent,yes,agentic coding inside VS Code,open-source,local/cloud,Common OSS alternative in the VS Code agent niche
+Sourcegraph Cody,https://sourcegraph.com/cody,Coding Agent,no,codebase search plus coding assistance,paid,cloud,Especially relevant in large-repo search-heavy workflows
+Sweep,https://github.com/sweepai/sweep,Coding Agent,yes,PR-style coding automation,open-source/paid,cloud,Interesting for GitHub-native code change workflows
+Tabnine,https://www.tabnine.com,Coding Agent,no,private-code-friendly assistance,paid,cloud/local,Long-running coding assistant product with enterprise positioning
+Windsurf,https://windsurf.com,Coding Agent,no,agentic coding in an editor,paid,cloud,Strong branding and app-builder appeal
+Warp,https://www.warp.dev,Coding Agent / Terminal,no,AI-native terminal with agent mode,paid/freemium,local/cloud,Rust-powered ADE with MCP integration and agent steering philosophy
 Agent Zero,https://github.com/frdel/agent-zero,General Agent,yes,local autonomous agent experimentation,open-source,local,Interesting OSS general-agent playground
+AutoGPT,https://github.com/Significant-Gravitas/AutoGPT,General Agent,yes,autonomous-agent experimentation,open-source,local/cloud,Historically important even if the hype cycle outran real utility
+Goose,https://github.com/block/goose,General Agent,yes,extensible local agent workflows,open-source,local,Developer-focused OSS project with broad agent ambitions
 Manus,https://manus.im,General Agent,no,general-purpose delegated tasks,paid,cloud,One of the loudest recent general-agent launches
 OpenManus,https://github.com/mannaandpoem/OpenManus,General Agent,yes,open-source Manus-style experimentation,open-source,local/cloud,Useful reference for the fast-follow OSS response pattern
-LibreChat,https://github.com/danny-avila/LibreChat,Personal Assistant UI,yes,self-hosted multi-model assistant UI,open-source,local/self-hosted,More assistant shell than agent framework but widely relevant
-Jan,https://jan.ai/,Personal Assistant UI,yes,local desktop AI assistant,open-source,local,Good reference point for privacy-first local assistant setups
+MCP Hub,https://github.com/anthropics/mcp,MCP Infrastructure,yes,discovering and connecting MCP servers,open-source,local/cloud,Central registry for MCP-compatible tools and data sources
+Khoj,https://github.com/khoj-ai/khoj,Personal Assistant,yes,personal knowledge and assistant workflows,open-source,local/cloud,Useful for search-plus-assistant personal setups
+Shortwave,https://www.shortwave.com,Personal Assistant,no,email-native AI assistance,paid/freemium,cloud,Specialized assistant product focused on inbox workflows
+Supermemory,https://supermemory.ai,Personal Assistant,no,personal memory and saved-knowledge workflows,paid/freemium,cloud,Interesting personal knowledge layer adjacent to assistant behavior
+OpenClaw,https://github.com/openclaw/openclaw,Personal Assistant / Agent Runtime,yes,cross-channel assistants and tool orchestration,open-source,local/self-hosted,Unusually broad surface across messaging browser and devices
+Open Interpreter,https://github.com/OpenInterpreter/open-interpreter,Personal Assistant / General Agent,yes,computer-use style local assistance,open-source,local,Helped popularize local computer-use assistant workflows
 AnythingLLM,https://github.com/Mintplex-Labs/anything-llm,Personal Assistant / Workspace,yes,workspace-style knowledge assistant,open-source/paid,local/cloud,Popular self-hosted assistant option for teams and individuals
+Jan,https://jan.ai,Personal Assistant UI,yes,local desktop AI assistant,open-source,local,Good reference point for privacy-first local assistant setups
+LibreChat,https://github.com/danny-avila/LibreChat,Personal Assistant UI,yes,self-hosted multi-model assistant UI,open-source,local/self-hosted,More assistant shell than agent framework but widely relevant
+Consensus,https://consensus.app,Research Agent,no,academic question answering,paid/freemium,cloud,Narrower than general AI search but useful for literature lookups
+Elicit,https://elicit.com,Research Agent,no,research workflows and literature support,paid/freemium,cloud,Best known in evidence-heavy research circles
+Gemini Deep Research,https://gemini.google.com,Research Agent,no,web-grounded synthesis,paid/freemium,cloud,Compelling when Google grounding matters
+Genspark,https://www.genspark.ai,Research Agent,no,multi-step research and synthesis,paid/freemium,cloud,Strong consumer-facing research positioning
+OpenAI Deep Research,https://openai.com,Research Agent,no,long-form researched outputs,paid,cloud,High-profile research workflow with premium positioning
+Perplexity,https://www.perplexity.ai,Research Agent,no,fast search and synthesis,paid/freemium,cloud,Still one of the easiest research products to recommend
+Phind,https://www.phind.com,Research Agent,no,technical search and coding-adjacent research,paid/freemium,cloud,More developer-facing than many general AI search tools
+You.com,https://you.com,Research Agent,no,AI search and research flows,paid/freemium,cloud,Search-first product with agentic research features
+NotebookLM,https://notebooklm.google,Research Assistant,no,source-grounded synthesis around documents,free/freemium,cloud,Very useful for document-centered research and study flows
+Scite,https://scite.ai,Research Assistant,no,citation-aware literature exploration,paid/freemium,cloud,Useful when citation quality matters more than general search breadth
+Exa,https://exa.ai,Research Tooling,no,search infrastructure for AI builders,paid,cloud,Often used underneath research and retrieval workflows
+Activepieces,https://github.com/activepieces/activepieces,Workflow Agent,yes,automation with AI integrations,open-source/paid,local/cloud,More automation platform than pure agent system
+Bardeen,https://www.bardeen.ai,Workflow Agent,no,browser and SaaS automation,paid/freemium,cloud,Automation-heavy with AI assistance layered in
+Baserow AI,https://baserow.io,Workflow Agent,no,AI-enhanced internal data workflows,paid/freemium,cloud,Not purely agentic but relevant for operational AI automations
+Dify,https://github.com/langgenius/dify,Workflow Agent,yes,LLM app and workflow building,open-source/paid,local/cloud,Popular OSS platform for shipping AI apps
+Dust,https://dust.tt,Workflow Agent,no,team knowledge and workflow assistants,paid,cloud,Strong enterprise assistant positioning around internal tools and docs
+Flowise,https://github.com/FlowiseAI/Flowise,Workflow Agent,yes,visual LLM and agent flows,open-source/paid,local/cloud,Friendly for low-code agent experiments
+Gumloop,https://www.gumloop.com,Workflow Agent,no,visual AI workflow building,paid,cloud,Strong appeal for business users who want fast automations
+Lindy,https://www.lindy.ai,Workflow Agent,no,assistant-style business automations,paid,cloud,Positions itself around delegated work and org tasks
+Make,https://www.make.com,Workflow Agent,no,visual automation with AI steps,paid,cloud,Major automation platform many builders compare against agent tools
+n8n,https://github.com/n8n-io/n8n,Workflow Agent,yes,app automation with AI steps,open-source/paid,local/cloud,Massive practical appeal for operators and builders
+Pipedream,https://pipedream.com,Workflow Agent,no,developer automation and event-driven flows,paid/freemium,cloud,Developer-friendly automation layer that can support agent patterns
+Relay.app,https://www.relay.app,Workflow Agent,no,human-in-the-loop automation,paid,cloud,Useful reference for approval-driven workflows
+Retool AI,https://retool.com/ai,Workflow Agent,no,internal-tool workflows with AI,paid,cloud,Relevant for operators building internal systems quickly
 Taskade AI Agents,https://www.taskade.com/ai,Workflow Agent,no,team productivity agents,paid/freemium,cloud,Collaboration-centric agent product with task management roots
-Baserow AI,https://baserow.io/,Workflow Agent,no,AI-enhanced internal data workflows,paid/freemium,cloud,Not purely agentic but relevant for operational AI automations
-Make,https://www.make.com/,Workflow Agent,no,visual automation with AI steps,paid,cloud,Major automation platform many builders compare against agent tools
-Dust,https://dust.tt/,Workflow Agent,no,team knowledge and workflow assistants,paid,cloud,Strong enterprise assistant positioning around internal tools and docs
-Shortwave,https://www.shortwave.com/,Personal Assistant,no,email-native AI assistance,paid/freemium,cloud,Specialized assistant product focused on inbox workflows
-Supermemory,https://supermemory.ai/,Personal Assistant,no,personal memory and saved-knowledge workflows,paid/freemium,cloud,Interesting personal knowledge layer adjacent to assistant behavior
-Mem0,https://mem0.ai/,Agent Memory Infrastructure,no,memory layer for assistants and agents,paid/open-source,local/cloud,Important supporting layer in persistent agent stacks
-Rivet,https://rivet.ironcladapp.com/,Agent Workflow Tooling,no,visual prompt and agent logic design,paid/freemium,cloud,Closer to agent workflow design tooling than turnkey assistant product
+Zapier Agents,https://zapier.com/ai,Workflow Agent,no,business automation with AI actions,paid,cloud,Important for mainstream no-code automation buyers
+CrewAI,https://github.com/crewAIInc/crewAI,Workflow Agent / Framework,yes,multi-agent workflow systems,open-source/paid,local/cloud,Huge builder mindshare in agent automation circles
